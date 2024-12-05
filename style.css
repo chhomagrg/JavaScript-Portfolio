@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(36, 136, 36);
+    display: flex;
+}
+
+.container {
+    width: 600px;
+    background-color: rgb(134, 209, 134);
+    padding: 20px;
+
+}
+
+img {
+    width: 220px;
+    height: 160px;
+    border: 2px solid rgb(7, 117, 7);
+    padding: 10px;
+}
+
+h1 {
+    color: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+    border: 2px solid black; 
+}
+
+project ol {
+    text-align: left;
+    
+}
+
+project a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    padding: 10px
+}
+
+.headers {
+    text-align: center;
+    font-size: 18px;
+}
